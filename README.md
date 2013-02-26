@@ -3,10 +3,10 @@ fosroncms
 A cms in PHP/Python/Ruby. Different languages, same functionality. 
 
 The code is done for a college course, just to show some basic functionality.
+#### Many inconsistencies, not much security, some Lithuanian, some English names. Use it on your own risk!!
 
-Version 0.0001
+All code is done on micro-frameworks.
 
-All code is done on micro-frameworks
 
 **PHP version is using:**
 * Framework [Silex](http://silex.sensiolabs.org/)
